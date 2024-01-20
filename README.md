@@ -1,7 +1,7 @@
 # Flits extraction tool
 
 ### Add and feedback:
- * Version Nr. V1.0 
+ * Version Nr. v0.2 
  * GIF how it works for the Helpdesk + warnings
 
 ### Extra information:
